@@ -1,4 +1,4 @@
-# data-science-research
+# Data-science-research
 The main objective of this project is to find an optimal model for a problem for which historical data is given in a dataset. This is an end to end project that addresses optimality in hyper parameter selection and model parameter selection using different models.
 
 
